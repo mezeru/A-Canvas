@@ -1,0 +1,10 @@
+C:\Users\Mezeru\source\repos\A Canvas\A Canvas\bin\Debug\A Canvas.exe.config
+C:\Users\Mezeru\source\repos\A Canvas\A Canvas\bin\Debug\A Canvas.exe
+C:\Users\Mezeru\source\repos\A Canvas\A Canvas\bin\Debug\A Canvas.pdb
+C:\Users\Mezeru\source\repos\A Canvas\A Canvas\obj\Debug\A Canvas.csprojAssemblyReference.cache
+C:\Users\Mezeru\source\repos\A Canvas\A Canvas\obj\Debug\A_Canvas.Form1.resources
+C:\Users\Mezeru\source\repos\A Canvas\A Canvas\obj\Debug\A_Canvas.Properties.Resources.resources
+C:\Users\Mezeru\source\repos\A Canvas\A Canvas\obj\Debug\A Canvas.csproj.GenerateResource.cache
+C:\Users\Mezeru\source\repos\A Canvas\A Canvas\obj\Debug\A Canvas.csproj.CoreCompileInputs.cache
+C:\Users\Mezeru\source\repos\A Canvas\A Canvas\obj\Debug\A Canvas.exe
+C:\Users\Mezeru\source\repos\A Canvas\A Canvas\obj\Debug\A Canvas.pdb
